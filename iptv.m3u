@@ -13,7 +13,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1, tvg-id="Trans7.id" tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" tvg-name="Trans 7"  group-title="Lokal",Trans 7
-http://stream-04.sg1.dailymotion.com/dm/3/x6p1gw7/live-2.m3u8
+http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1, tvg-id="SCTV.id" tvg-logo="http://images2.useetv.com/logo_sctv_big1.png?v=1.0.0.0" tvg-name="SCTV"  group-title="Lokal",SCTV
 http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
