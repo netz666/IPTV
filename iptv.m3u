@@ -1,62 +1,83 @@
-#EXTINF:-1,tvg-id="NetTV.id" tvg-images2.useetv.com/logo_net_big1.png?v=1.0.0.0" tvg-name="NET TV HD"  group-title="Lokal"NET TV HD
+#EXTM3U
+
+#EXTINF:-1, tvg-id="NetTV.id" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" tvg-name="NET TV HD"  group-title="Lokal",NET TV HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 
-#EXTINF:-1,tvg-id="NetTV.id" tvg-images2.useetv.com/logo_net_big1.png?v=1.0.0.0" tvg-name="NET TV"  group-title="Lokal"NET TV
+#EXTINF:-1, tvg-id="NetTV.id" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" tvg-name="NET TV"  group-title="Lokal",NET TV
 http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1,tvg-id="TVRI.id" tvg-images2.useetv.com/logo_tvri_big1.png?v=1.0.0.0" tvg-name="TVRI"  group-title="News"TVRI
+#EXTINF:-1, tvg-id="TVRI.id" tvg-logo="http://images2.useetv.com/logo_tvri_big1.png?v=1.0.0.0" tvg-name="TVRI"  group-title="News",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 
-#EXTINF:-1,tvg-id="TransTV.id" tvg-images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0" tvg-name="Trans TV"  group-title="Lokal"Trans TV
+#EXTINF:-1, tvg-id="TransTV.id" tvg-logo="http://images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0" tvg-name="Trans TV"  group-title="Lokal",Trans TV
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1,tvg-id="Trans7.id" tvg-images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" tvg-name="Trans 7"  group-title="Lokal"Trans 7
-http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1, tvg-id="Trans7.id" tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" tvg-name="Trans 7"  group-title="Lokal",Trans 7
+http://stream-04.sg1.dailymotion.com/dm/3/x6p1gw7/live-2.m3u8
 
-#EXTINF:-1,tvg-id="SCTV.id" tvg-images2.useetv.com/logo_sctv_big1.png?v=1.0.0.0" tvg-name="SCTV"  group-title="Lokal"SCTV
+#EXTINF:-1, tvg-id="SCTV.id" tvg-logo="http://images2.useetv.com/logo_sctv_big1.png?v=1.0.0.0" tvg-name="SCTV"  group-title="Lokal",SCTV
 http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1,tvg-id="Indosiar.id" tvg-images2.useetv.com/logo_indosiar_big1.png?v=1.0.0.0" tvg-name="Indosiar"  group-title="Lokal"Indosiar
+#EXTINF:-1, tvg-id="Indosiar.id" tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png?v=1.0.0.0" tvg-name="Indosiar"  group-title="Lokal",Indosiar
 http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1,tvg-id="ANTV.id" tvg-images2.useetv.com/logo_antv_big1.png?v=1.0.0.0" tvg-name="ANTV"  group-title="Lokal"ANTV
+#EXTINF:-1, tvg-id="ANTV.id" tvg-logo="http://images2.useetv.com/logo_antv_big1.png?v=1.0.0.0" tvg-name="ANTV"  group-title="Lokal",ANTV
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1,tvg-id="MNCTV.id" tvg-devanyahya.web.id/mnclogo.png" tvg-name="MNC TV"  group-title="Lokal"MNC TV
+#EXTINF:-1, tvg-id="MNCTV.id" tvg-logo="https://devanyahya.web.id/mnclogo.png" tvg-name="MNC TV"  group-title="Lokal",MNC TV
 http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1,tvg-id="GTV.id" tvg-devanyahya.web.id/logo_globaltv_big1.png" tvg-name="Global TV"  group-title="Lokal"Global TV
+#EXTINF:-1, tvg-id="GTV.id" tvg-logo="https://devanyahya.web.id/logo_globaltv_big1.png" tvg-name="Global TV"  group-title="Lokal",Global TV
 http://202.80.222.174:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1,tvg-id="RCTI.id" tvg-devanyahya.web.id/rctilogo.png" tvg-name="RCTI"  group-title="Lokal"RCTI
+#EXTINF:-1, tvg-id="RCTI.id" tvg-logo="https://devanyahya.web.id/rctilogo.png" tvg-name="RCTI"  group-title="Lokal",RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1,tvg-id="CNNIndonesia.id" tvg-images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" tvg-name="CNN Indonesia"  group-title="News"CNN Indonesia
+#EXTINF:-1, tvg-id="CNNIndonesia.id" tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" tvg-name="CNN Indonesia"  group-title="News",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
-#EXTINF:-1,tvg-id="BeritaSatu.id" tvg-www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" tvg-name="Berita Satu News"  group-title="News"Berita Satu News
+#EXTINF:-1, tvg-id="BeritaSatu.id" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" tvg-name="Berita Satu News"  group-title="News",Berita Satu News
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
 
-#EXTINF:-1,tvg-id="TVOne.id" tvg-images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" tvg-name="TV ONE"  group-title="News"TV ONE
+#EXTINF:-1, tvg-id="TVOne.id" tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" tvg-name="TV ONE"  group-title="News",TV ONE
 http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1,tvg-id="KompasTv.id" tvg-images2.useetv.com/logo_kompastv_big1.png?v=1.0.0.0" tvg-name="Kompas TV"  group-title="News"Kompas TV
+#EXTINF:-1, tvg-id="KompasTv.id" tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png?v=1.0.0.0" tvg-name="Kompas TV"  group-title="News",Kompas TV
 http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1,tvg-id="MetroTV.id" tvg-images2.useetv.com/logo_metrotv_big1.png?v=1.0.0.0" tvg-name="Metro TV"  group-title="News"Metro TV
+#EXTINF:-1, tvg-id="MetroTV.id" tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png?v=1.0.0.0" tvg-name="Metro TV"  group-title="News",Metro TV
 http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1,tvg-id="iNews.id" tvg-yt3.ggpht.com/-PWtwDVBQ81I/AAAAAAAAAAI/AAAAAAAAAAA/TV9LxFTHLEA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-name="iNews TV"  group-title="News"iNews TV
+#EXTINF:-1, tvg-id="iNews.id" tvg-logo="https://yt3.ggpht.com/-PWtwDVBQ81I/AAAAAAAAAAI/AAAAAAAAAAA/TV9LxFTHLEA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-name="iNews TV"  group-title="News",iNews TV
 http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1,tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="The Indonesia Channel"  group-title="Lokal"The Indonesia Channel
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="The Indonesia Channel"  group-title="Lokal",The Indonesia Channel
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
 
-#EXTINF:-1,tvg-id="BloombergTV.us" tvg-live-tv-channels.net/pt-data/uploads/logo/jp-bloomberg-tv-asia.jpg" tvg-name="Bloomberg TV Asia"  group-title="News"Bloomberg TV Asia
+#EXTINF:-1, tvg-id="BloombergTV.us" tvg-logo="https://live-tv-channels.net/pt-data/uploads/logo/jp-bloomberg-tv-asia.jpg" tvg-name="Bloomberg TV Asia"  group-title="News",Bloomberg TV Asia
 https://bblive-liveprodapnortheast.hs.llnwd.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 
-#EXTINF:-1,tvg-id="EPG N/A" tvg-www.infotelevisi.com/asset/images/tv/my-kids.jpg" tvg-name="My Kids"  group-title="Kids"My Kids
+#EXTINF:-1, tvg-id="JakTV.id" tvg-logo="http://images2.useetv.com/logo_jaktv_big1.png?v=1.0.0.0" tvg-name="Jak TV"  group-title="Lokal",Jak TV
+http://ez-tracker.net/tvz/JAKTV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Biznet Kids"  group-title="Kids",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w381752356_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
+
+#EXTINF:-1, tvg-id="RajawaliTV.id" tvg-logo="http://images2.useetv.com/logo_rtv_big1.png?v=1.0.0.0" tvg-name="Rajawali TV"  group-title="Lokal",Rajawali TV
+http://ez-tracker.net/tvz/RTV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.infotelevisi.com/asset/images/tv/my-kids.jpg" tvg-name="My Kids"  group-title="Kids",My Kids
 http://210.210.155.35/session/e182f600-c3a1-11e8-aa13-a4dba5aaae34/x6bnqe/s/s30/S4/mnf.m3u8
 
-#EXTINF:-1,tvg-id="Animax.id" tvg-is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" tvg-name="Animax"  group-title="Anime"Animax
+#EXTINF:-1, tvg-id="NatGeo.id" tvg-logo="https://i1.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/NatGeo_People_logo-628x353.gif" tvg-name="National Geographic Channel"  group-title="Knowledge",National Geographic Channel
+http://livestream.biznetvideo.net/biznet_ngc/_definst_/stream_ngc/chunklist_w2021209028_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTd1TjhpclRZYmc0a3JxQ2xULWZ1bXc1OTdueXNpUUxUZWRNdzJfM0hYcThYTWtQR253X2xzQ3hxWng3T0hBY2M=.m3u8
+
+#EXTINF:-1, tvg-id="NatGeoWild.id" tvg-logo="http://j2-play.tv/cover/live/doc/natgeowild.png" tvg-name="National Geographic Wild"  group-title="Knowledge",National Geographic Wild
+http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/chunklist_w177687450_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPTlIQnp4TmV1VktDRjl0U2c4RUpCRFFvdUpyaDRNeUhaam1rTUpHZHE4VWg0QVBBRmQ5LTZ5bEpxVGgwM3BvcGw=.m3u8
+
+#EXTINF:-1, tvg-id="Animax.id" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" tvg-name="Animax"  group-title="Anime",Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+
+#EXTINF:-1, tvg-id="FoxSports.id" tvg-logo="" tvg-name="Fox Sports 1"  group-title="Sports",Fox Sports 1
+http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
+
